@@ -1,4 +1,6 @@
 # Modeling and controlling SNS disaster dynamics to detect, prevent, and mitigate firestorms in on-line brand communities
 
-This project aim to tackle the firemstorms in the brand communities (Detect, Prevent and Mitigate). 
-
+Online firestorms pose severe threats to online brand communities. Any negative electronic word of mouth (eWOM) has the potential to become an online firestorm. Online firestorms can spread quickly, and create disproportionate and disastrous effects to any organization. 
+Therefore, detecting,preventing and mitigating online firestorms in online brand communities constitute a critical managerial priority. Yet 72% of firms are not prepared for online firestorms (Ethical Corporation 2012). A single 466-word post by an unhappy customer in Odeon Cinemas’ Facebook brand community prompted more than 94,000 likes, damaging the firm’s reputation and causing it to lose thousands of customers (Dunphy 2012; in Herhausen et al. 2019).
+To avoid these catastrophic consequences, we want to understand the SNS (Social Networking Sites) disasters dynamics and find ways to control it. 
+Precisely this research works consists of modeling and controlling the disasters dynamics for online brand communities such as firms social networks sites and measuring theirs effects on firms short, long term performances.
